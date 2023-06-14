@@ -1,0 +1,25 @@
+﻿@model News
+@{
+    ViewData["Title"] = "Delete";
+}
+<form method="post" asp-action="Delete">
+<div class="alert alert-danger">
+    <h1>
+        Are you sure to delete this News
+    </h1>
+            <div class="card cardCustom" style="width: 21rem;">
+                <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="250" width="250" />
+                <div class="card-body">
+                <h4 class="text-dark">@Model.Title</h4>
+                <p class="card-text text-dark">@Model.Body</p>
+                <p class="text-dark"><span style="font-weight:bold">Created Date : </span> @Model.CreateTime</p>
+                <p class="text-dark"><span style="font-weight:bold">Admin Name : </span> @Model.Admin.User.Name</p>
+                </div>
+            </div>
+    <br />
+    <a  class="btn btn-success" asp-action="Index" asp-controller="News">No</a> |
+        <button class="btn btn-primary" type="submit">Yes</button>
+</div>
+</form>
+
+

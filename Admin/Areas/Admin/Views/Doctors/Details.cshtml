@@ -1,0 +1,17 @@
+﻿@model Doctor
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="card cardCustom" style="width: auto;">
+@*    <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="250" width="250" />
+*@    <div class="card-body">
+        <h4><span style="font-weight:bold">Name : </span> @Model.User.Name</h4>
+        <p class="card-text"><span style="font-weight:bold">Specialice : </span> @Model.Specialice</p>
+        <p><span style="font-weight:bold">Created Date : </span> @Model.CreateTime</p>
+        <p><span style="font-weight:bold">Email : </span> @Model.User.Email</p>
+        <p><span style="font-weight:bold">Phone : </span> @Model.User.PhoneNumber</p>
+        <p><span style="font-weight:bold">Admin Name : </span> @Model.User.Admin.Name</p>
+    </div>
+</div>
+
+<a class="btn btn-info" asp-action="Index" asp-controller="Doctors">Back</a>

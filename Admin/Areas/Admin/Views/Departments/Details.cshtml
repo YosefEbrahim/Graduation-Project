@@ -1,0 +1,68 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card cardCustom" style="width: auto;">
+    <div class="card-body">
+        <p class="card-text"><span style="font-weight:bold">Id : </span> @Model.Id</p>
+        <h4><span style="font-weight:bold">Name : </span> @Model.DeptName</h4>
+        <div>
+            <h1>Doctors : </h1>
+
+
+                                                    <table class="table table-striped">
+                              <thead>
+                                <tr>
+
+                                  <th scope="col">Name</th>
+                                  <th scope="col">Phone</th>
+                                  <th scope="col">Email</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                                  @if(@Model.Doctors != null)
+                                            {
+                                                @foreach (var item in  @Model?.Doctors)
+                                                {
+                                <tr>
+                                  <td>@item?.User?.Name</td>
+                                  <td>@item?.User?.PhoneNumber</td>
+                                  <td>@item?.User?.Email></td>
+                                </tr>
+                                                }
+                                            }
+                              </tbody>
+                            </table>
+                
+                                                                  </div>
+        <div>
+           <h1>Subjects : </h1> 
+                          <table class="table table-striped">
+                              <thead>
+                                <tr>
+
+                                  <th scope="col">Subject Name</th>
+                                  <th scope="col">Subject Code</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                                  @if(@Model.Subjects != null)
+                                            {
+                       @foreach (var item in @Model?.Subjects)
+                        {
+                                <tr>
+                                  <td>@item.Name</td>
+                                  <td>@item.Code</td>
+                                </tr>
+                         }
+              }
+                              </tbody>
+                            </table>
+        </div>
+    </div>
+</div>
+
+<a class="btn btn-info" asp-action="Index" asp-controller="Departments">Back</a>

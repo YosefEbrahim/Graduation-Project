@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ملفات\source\repos\Graduation Project\Services\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-04-22T12:06:36.5537772Z;True|2023-04-12T00:09:12.4395281+02:00;True|2023-03-27T23:41:14.3230506+02:00;True|2023-03-03T00:00:09.6882004+02:00;False|2023-03-02T23:57:24.2335009+02:00;True|2023-03-02T23:48:19.5471934+02:00;True|2023-02-24T22:32:34.0210251+02:00;True|2022-11-10T11:37:29.3696710+02:00;True|2022-11-10T10:49:43.9019188+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

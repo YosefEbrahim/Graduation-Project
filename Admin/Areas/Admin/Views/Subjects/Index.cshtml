@@ -1,0 +1,28 @@
+﻿@model List<Subject>
+@{
+    ViewData["Title"] = "Subjects";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<a asp-action="Create" asp-controller="Subjects" class="btn btn-primary">Create</a>
+<br />
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Code</th>
+        <th style="width: 20%;"></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td><p style="text-overflow:ellipsis;width:143px;overflow:hidden;white-space:nowrap">@item.Name</p></td>
+            <td>@item.Code</td>
+
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success">Edit</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,22 @@
+﻿@model Subject
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" asp-action="Delete">
+    <h1>
+        Are you sure to delete this Doctor
+    </h1>
+    <div class="card cardCustom alert alert-danger" style="width:auto;">
+                <div class="card-body">
+            <h4 class="text-light"><span style="font-weight:bold">Name : </span>  @Model.Name</h4>
+            <p class="card-text text-light"><span style="font-weight:bold">Code : </span>  @Model.Code</p>
+                </div>
+            </div>
+    <br />
+    <a class="btn btn-success" asp-action="Index" asp-controller="Subjects">No</a> |
+        <button class="btn btn-primary" type="submit">Yes</button>
+</form>
+
+

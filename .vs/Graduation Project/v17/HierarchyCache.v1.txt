@@ -1,0 +1,1141 @@
+﻿++Solution 'Graduation Project' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Graduation Project.sln
+++Models
+i:{00000000-0000-0000-0000-000000000000}:Models
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\models\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\models\models.csproj
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\models\models.csproj
+++Dependencies
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>6633
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13624
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13623
+++Properties
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\properties\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\
+++Migrations
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\
+++20230408132511_intial.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230408132511_intial.cs
+++20230410143727_addMessages.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230410143727_addmessages.cs
+++20230410201924_addMessages2.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230410201924_addmessages2.cs
+++20230411123254_addisseen.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230411123254_addisseen.cs
+++20230415114746_addsubjectanddepartment.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415114746_addsubjectanddepartment.cs
+++20230415151637_addExamId.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415151637_addexamid.cs
+++20230415161639_addStudentAnswer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415161639_addstudentanswer.cs
+++20230421202912_addteamtable.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230421202912_addteamtable.cs
+++20230512121950_updateteamlogo.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230512121950_updateteamlogo.cs
+++20230515194957_allownulltomessage.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230515194957_allownulltomessage.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\applicationdbcontextmodelsnapshot.cs
+++Admin.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\admin.cs
+++ApplicationUser.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\applicationuser.cs
+++Department.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\department.cs
+++Doctor.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\doctor.cs
+++DoctorRanks.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\doctorranks.cs
+++DoctorSubjects.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\doctorsubjects.cs
+++Exam.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\exam.cs
+++ExamAnswers.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\examanswers.cs
+++ExamStudents.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\examstudents.cs
+++Groups.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\groups.cs
+++Lecture.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\lecture.cs
+++LectureStudents.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\lecturestudents.cs
+++Messages.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\messages.cs
+++News.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\news.cs
+++Question.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\question.cs
+++Rank.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\rank.cs
+++Student.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\student.cs
+++Subject.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\subject.cs
+++Table.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\table.cs
+++Team.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\team.cs
+++UserConection.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\userconection.cs
+++UserGroup.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\usergroup.cs
+++ViewModels
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\viewmodels\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\viewmodels\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\
+++ApplicationDbContext.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\applicationdbcontext.cs
+++Analyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:analyzers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:analyzers
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:analyzers
+++Frameworks
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:frameworks
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:frameworks
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:frameworks
+++Packages
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:packages
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:packages
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:packages
+++PublishProfiles
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\properties\publishprofiles\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\publishprofiles\
+++20230408132511_intial.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230408132511_intial.designer.cs
+++20230410143727_addMessages.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230410143727_addmessages.designer.cs
+++20230410201924_addMessages2.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230410201924_addmessages2.designer.cs
+++20230411123254_addisseen.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230411123254_addisseen.designer.cs
+++20230415114746_addsubjectanddepartment.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415114746_addsubjectanddepartment.designer.cs
+++20230415151637_addExamId.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415151637_addexamid.designer.cs
+++20230415161639_addStudentAnswer.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230415161639_addstudentanswer.designer.cs
+++20230421202912_addteamtable.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230421202912_addteamtable.designer.cs
+++20230512121950_updateteamlogo.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230512121950_updateteamlogo.designer.cs
+++20230515194957_allownulltomessage.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230515194957_allownulltomessage.designer.cs
+++LoginViewModel.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\viewmodels\loginviewmodel.cs
+++NewsDetails.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\viewmodels\newsdetails.cs
+++MessagePackAnalyzer
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\users\yosef\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\users\yosef\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\users\yosef\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\users\yosef\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\users\yosef\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\users\yosef\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\users\yosef\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\users\yosef\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\microsoft.netcore.app
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\microsoft.netcore.app
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13663
+++Microsoft.EntityFrameworkCore.Design (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13661
+++Microsoft.EntityFrameworkCore.Relational (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13665
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13659
+++Microsoft.EntityFrameworkCore.Tools (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13667
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.10)
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:>13669
+++FolderProfile.pubxml
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\properties\publishprofiles\folderprofile.pubxml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\folderprofile.pubxml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\publishprofiles\folderprofile.pubxml
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\services\
+++Connected Services 
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13625
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13626
+++wwwroot
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\
+++admin
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\
+++css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\css\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\css\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\js\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\js\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\
+++Uploads
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\uploads\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\uploads\
+++favicon.ico
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\favicon.ico
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\favicon.ico
+++Areas
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\
+++External
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\
+++Controllers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\controllers\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\
+++AccountController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\controllers\accountcontroller.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\accountcontroller.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\accountcontroller.cs
+++ResetPasswordViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\viewmodels\resetpasswordviewmodel.cs
+++VerifyResetPasswordViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\viewmodels\verifyresetpasswordviewmodel.cs
+++Views
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\
+++DoctorsController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\doctorscontroller.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\doctorscontroller.cs
+++ExamsController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\examscontroller.cs
+++GenericController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\genericcontroller.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\genericcontroller.cs
+++LecturesController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\lecturescontroller.cs
+++NewsController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\newscontroller.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\newscontroller.cs
+++StudentsController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\studentscontroller.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\studentscontroller.cs
+++UserController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\controllers\weatherforecastcontroller.cs
+++ErrorList
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\errorlist\
+++Helper
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\helper\
+++Hubs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\hubs\
+++Repository
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\
+++ChangePasswordViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\changepasswordviewmodel.cs
+++CheckLoginApiModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\checkloginapimodel.cs
+++DoctorViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\doctorviewmodel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\doctorviewmodel.cs
+++ForgetPasswordViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\forgetpasswordviewmodel.cs
+++GenericViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\genericviewmodel.cs
+++LectureStudentsViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\lecturestudentsviewmodel.cs
+++RegisterAttendanceViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\registerattendanceviewmodel.cs
+++StudentViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\viewmodels\studentviewmodel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\studentviewmodel.cs
+++appsettings.json
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\appsettings.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\appsettings.json
+++libman.json
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\libman.json
+++Program.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\program.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\program.cs
+++WeatherForecast.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\weatherforecast.cs
+++No service dependencies discovered
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13627
+++Projects
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:projects
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:projects
+++launchSettings.json
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\launchsettings.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\launchsettings.json
+++dist
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\dist\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\dist\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\dist\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\dist\
+++plugins
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\
+++site.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\css\site.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\css\site.css
+++site.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\js\site.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\js\site.js
+++bootstrap
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\
+++jquery
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\
+++jquery-validation
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation-unobtrusive\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation-unobtrusive\
+++Account
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\account\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\account\
+++Shared
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\shared\
+++_ViewImports.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\_viewimports.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\_viewstart.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\_viewstart.cshtml
+++ErrorCode.json
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\errorlist\errorcode.json
+++Mail
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\helper\mail\
+++RealTimeHub.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\hubs\realtimehub.cs
+++ApiResponse.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\models\apiresponse.cs
+++JwtOptions.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\models\jwtoptions.cs
+++IJwtService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\ijwtservice.cs
+++ILectureDetailsService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\ilecturedetailsservice.cs
+++INewsService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\inewsservice.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\inewsservice.cs
+++IStudentService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\istudentservice.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\istudentservice.cs
+++JwtService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\jwtservice.cs
+++LectureDetailsService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\lecturedetailsservice.cs
+++NewsService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\newsservice.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\newsservice.cs
+++StudentService.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\repository\studentservice.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\studentservice.cs
+++Microsoft.AspNetCore.Analyzers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\microsoft.aspnetcore.app
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\microsoft.aspnetcore.app
+++Microsoft.AspNet.SignalR.Core (2.4.3)
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13642
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.14)
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13643
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.13)
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13640
+++Microsoft.EntityFrameworkCore.Tools (6.0.13)
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13644
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.11)
+++QRCoder (1.4.2)
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13639
+++Swashbuckle.AspNetCore (6.5.0)
+++FolderProfile1.pubxml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\folderprofile1.pubxml
+++FTPProfile.pubxml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\ftpprofile.pubxml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\publishprofiles\ftpprofile.pubxml
+++IISProfile.pubxml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\iisprofile.pubxml
+++IISProfile1.pubxml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\properties\publishprofiles\iisprofile1.pubxml
+++img
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\
+++fontawesome-free
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\
+++LICENSE
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\license
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\license.txt
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\license.txt
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\license.md
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Error.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\account\error.cshtml
+++Index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\home\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\index.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\index.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\lecture\index.cshtml
+++ResetPassword.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\account\resetpassword.cshtml
+++_Layout.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\shared\_layout.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\_validationscriptspartial.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\shared\_validationscriptspartial.cshtml
+++IMailHelper.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\helper\mail\imailhelper.cs
+++InputMailMessage.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\helper\mail\inputmailmessage.cs
+++MailHelper.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\helper\mail\mailhelper.cs
+++alt
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\
+++adminlte.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\adminlte.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\adminlte.css
+++credit
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\
+++AdminLTELogo.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\adminltelogo.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\adminltelogo.png
+++avatar.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\avatar.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\avatar.png
+++avatar2.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\avatar2.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\avatar2.png
+++avatar3.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\avatar3.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\avatar3.png
+++avatar4.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\avatar4.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\avatar4.png
+++avatar5.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\avatar5.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\avatar5.png
+++boxed-bg.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\boxed-bg.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\boxed-bg.jpg
+++boxed-bg.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\boxed-bg.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\boxed-bg.png
+++default-150x150.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\default-150x150.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\default-150x150.png
+++icons.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\icons.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\icons.png
+++photo1.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\photo1.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\photo1.png
+++photo2.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\photo2.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\photo2.png
+++photo3.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\photo3.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\photo3.jpg
+++photo4.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\photo4.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\photo4.jpg
+++prod-1.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\prod-1.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\prod-1.jpg
+++prod-2.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\prod-2.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\prod-2.jpg
+++prod-3.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\prod-3.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\prod-3.jpg
+++prod-4.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\prod-4.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\prod-4.jpg
+++prod-5.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\prod-5.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\prod-5.jpg
+++user1-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user1-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user1-128x128.jpg
+++user2-160x160.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user2-160x160.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user2-160x160.jpg
+++user3-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user3-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user3-128x128.jpg
+++user4-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user4-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user4-128x128.jpg
+++user5-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user5-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user5-128x128.jpg
+++user6-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user6-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user6-128x128.jpg
+++user7-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user7-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user7-128x128.jpg
+++user8-128x128.jpg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\user8-128x128.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\user8-128x128.jpg
+++pages
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\pages\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\pages\
+++.eslintrc.json
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\.eslintrc.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\.eslintrc.json
+++adminlte.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\adminlte.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\adminlte.js
+++demo.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\demo.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\demo.js
+++webfonts
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\
+++jquery.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\dist\jquery.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_Layout.cshtml.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\shared\_layout.cshtml.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\_layout.cshtml.css
+++adminlte.components.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.components.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.components.css
+++adminlte.core.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.core.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.core.css
+++adminlte.extra-components.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.extra-components.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.extra-components.css
+++adminlte.light.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.light.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.light.css
+++adminlte.pages.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.pages.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.pages.css
+++adminlte.plugins.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.plugins.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.plugins.css
+++adminlte.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\adminlte.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\adminlte.css.map
+++adminlte.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\adminlte.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\adminlte.min.css
+++american-express.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\american-express.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\american-express.png
+++cirrus.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\cirrus.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\cirrus.png
+++mastercard.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\mastercard.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\mastercard.png
+++paypal.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\paypal.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\paypal.png
+++paypal2.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\paypal2.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\paypal2.png
+++visa.png
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\img\credit\visa.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\img\credit\visa.png
+++dashboard.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\pages\dashboard.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\pages\dashboard.js
+++dashboard2.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\pages\dashboard2.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\pages\dashboard2.js
+++dashboard3.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\pages\dashboard3.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\pages\dashboard3.js
+++adminlte.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\adminlte.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\adminlte.js.map
+++adminlte.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\adminlte.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\adminlte.min.js
+++bootstrap.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++all.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\all.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\all.css
+++brands.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\brands.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\brands.css
+++fontawesome.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\fontawesome.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\fontawesome.css
+++regular.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\regular.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\regular.css
+++solid.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\solid.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\solid.css
+++svg-with-js.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\svg-with-js.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\svg-with-js.css
+++v4-shims.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\v4-shims.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\v4-shims.css
+++fa-brands-400.eot
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+++jquery.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\dist\jquery.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.slim.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.slim.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.slim.js
+++bootstrap.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++additional-methods.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++adminlte.components.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.components.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.components.css.map
+++adminlte.components.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.components.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.components.min.css
+++adminlte.core.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.core.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.core.css.map
+++adminlte.core.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.core.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.core.min.css
+++adminlte.extra-components.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.extra-components.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.extra-components.css.map
+++adminlte.extra-components.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.extra-components.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.extra-components.min.css
+++adminlte.light.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.light.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.light.css.map
+++adminlte.light.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.light.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.light.min.css
+++adminlte.pages.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.pages.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.pages.css.map
+++adminlte.pages.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.pages.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.pages.min.css
+++adminlte.plugins.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.plugins.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.plugins.css.map
+++adminlte.plugins.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.plugins.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.plugins.min.css
+++adminlte.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\adminlte.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\adminlte.min.css.map
+++adminlte.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\js\adminlte.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\js\adminlte.min.js.map
+++bootstrap.bundle.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++all.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\all.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\all.min.css
+++brands.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\brands.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\brands.min.css
+++fontawesome.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\fontawesome.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\fontawesome.min.css
+++regular.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\regular.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\regular.min.css
+++solid.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\solid.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\solid.min.css
+++svg-with-js.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\svg-with-js.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\svg-with-js.min.css
+++v4-shims.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\fontawesome-free\css\v4-shims.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\fontawesome-free\css\v4-shims.min.css
+++jquery.min.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.min.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\jquery\dist\jquery.min.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.min.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\jquery\dist\jquery.min.map
+++jquery.slim.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.slim.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.slim.min.js
+++bootstrap.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.esm.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++adminlte.components.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.components.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.components.min.css.map
+++adminlte.core.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.core.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.core.min.css.map
+++adminlte.extra-components.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.extra-components.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.extra-components.min.css.map
+++adminlte.light.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.light.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.light.min.css.map
+++adminlte.pages.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.pages.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.pages.min.css.map
+++adminlte.plugins.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\dist\css\alt\adminlte.plugins.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\dist\css\alt\adminlte.plugins.min.css.map
+++bootstrap.bundle.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++jquery.slim.min.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\jquery\jquery.slim.min.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\jquery\jquery.slim.min.map
+++bootstrap.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.esm.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.bundle.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\admin\plugins\bootstrap\js\bootstrap.bundle.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.rtl.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.esm.min.js.map
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Admin
+i:{00000000-0000-0000-0000-000000000000}:Admin
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\
+++Teams
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\teams\
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\
+++02ef4b9d-d181-45af-9c8d-5b1a91f46df9.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\teams\02ef4b9d-d181-45af-9c8d-5b1a91f46df9.jpg
+++2e7441fc-d9aa-410a-b874-5d4d6922ae71.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\teams\2e7441fc-d9aa-410a-b874-5d4d6922ae71.jpg
+++3dab82d0-3aee-4bb4-a5fa-65434831da78.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\teams\3dab82d0-3aee-4bb4-a5fa-65434831da78.jpg
+++42e2e8b2-bc7f-4a8a-bee6-34cfd755b433.jpg
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\teams\42e2e8b2-bc7f-4a8a-bee6-34cfd755b433.jpg
+++DepartmentsController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\departmentscontroller.cs
+++HomeController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\homecontroller.cs
+++RanksController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\rankscontroller.cs
+++SharedController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\sharedcontroller.cs
+++SubjectsController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\subjectscontroller.cs
+++TablesController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\tablescontroller.cs
+++TeamsController.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\controllers\teamscontroller.cs
+++Data
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\data\
+++AdminContext.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\data\admincontext.cs
+++DoctorService.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\doctorservice.cs
+++Global.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\global.cs
+++IDoctorService.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\idoctorservice.cs
+++IGlobal.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\repository\iglobal.cs
+++DepartmentViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\departmentviewmodel.cs
+++NewsViewModels.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\newsviewmodels.cs
+++PostNewViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\postnewviewmodel.cs
+++RanksViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\ranksviewmodel.cs
+++SubjectViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\subjectviewmodel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\viewmodels\subjectviewmodel.cs
+++TableViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\tableviewmodel.cs
+++TeamsViewModel.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\viewmodels\teamsviewmodel.cs
+++Login.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\account\login.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\account\login.cshtml
+++Departments
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\
+++Create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\create.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\create.cshtml
+++Delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\delete.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\delete.cshtml
+++Details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\details.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\details.cshtml
+++Edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\departments\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\teams\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\edit.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\edit.cshtml
+++Doctors
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\doctors\
+++Home
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\home\
+++News
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\news\
+++Ranks
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\ranks\
+++Students
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\students\
+++Subjects
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\subjects\
+++Tables
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\tables\
+++Responds
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\responds\
+++GenericRespond.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\responds\genericrespond.cs
+++ISeeding.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\services\iseeding.cs
+++Seeding.cs
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\services\seeding.cs
+++ScaffoldingReadMe.txt
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\scaffoldingreadme.txt
+++SQL Server Express LocalDB (Local) (ConnectionStrings:AdminContext)
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13714
+++serviceDependencies.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\servicedependencies.json
+++bcf9cf36-cd0a-451e-92e6-414a44c9806a.png
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\wwwroot\uploads\bcf9cf36-cd0a-451e-92e6-414a44c9806a.png
+++Privacy.cshtml
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\areas\admin\views\home\privacy.cshtml
+++appsettings.Development.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\appsettings.development.json
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.15)
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13670
+++Microsoft.EntityFrameworkCore.Tools (6.0.15)
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13672
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.13)
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13673
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13735
+++Swashbuckle.AspNetCore (6.3.0)
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:>13671
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:>13733
+++serviceDependencies.local.json
+i:{431f069e-77f8-443b-a848-ff6ed45b609e}:d:\ملفات\source\repos\graduation project\admin\properties\servicedependencies.local.json
+++ResetRespond.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\account\resetrespond.cshtml
+++LectureController.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\controllers\lecturecontroller.cs
+++Lecture
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\lecture\
+++_ResetLayout.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\_resetlayout.cshtml
+++_ResetLayout.cshtml.css
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\shared\_resetlayout.cshtml.css
+++QrGeneration.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\lecture\qrgeneration.cshtml
+++Lecture_Qrs.cs
+++Qrs_Code.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\models\qrs_code.cs
+++20230521150751_addqrcode.cs
+++20230521150751_addqrcode.Designer.cs
+++20230521151112_addqrcode.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230521151112_addqrcode.cs
+++20230521151112_addqrcode.Designer.cs
+i:{7cb0dbd8-5d88-411c-a35a-e000c95e87dd}:d:\ملفات\source\repos\graduation project\models\migrations\20230521151112_addqrcode.designer.cs
+++QrRandamViewModel.cs
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\viewmodels\qrrandamviewmodel.cs
+++RandomQr.cshtml
+i:{4dc18df9-b4a3-4bf5-97bc-2a1aa729547d}:d:\ملفات\source\repos\graduation project\services\areas\external\views\lecture\randomqr.cshtml

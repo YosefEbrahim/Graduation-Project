@@ -1,0 +1,16 @@
+﻿@using Models.Models
+@model News
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="card cardCustom" style="width: 21rem;">
+    <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="250" width="250" />
+    <div class="card-body">
+        <h4>@Model.Title</h4>
+        <p class="card-text">@Model.Body</p>
+        <p><span style="font-weight:bold">Created Date : </span> @Model.CreateTime</p>
+        <p><span style="font-weight:bold">Admin Name : </span> @Model.Admin.User.Name</p>
+    </div>
+</div>
+
+<a  class="btn btn-info" asp-action="Index" asp-controller="News">Back</a>

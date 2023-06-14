@@ -1,0 +1,28 @@
+﻿@model Subject
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card cardCustom" style="width: auto;">
+    <div class="card-body">
+        <h4><span style="font-weight:bold">Name : </span> @Model.Name</h4>
+        <p class="card-text"><span style="font-weight:bold">Code : </span> @Model.Code</p>
+        <div><span style="font-weight:bold">Doctors : </span>
+            <div>
+                @if(@Model.Doctors != null)
+                {
+                    @foreach (var item in  @Model?.Doctors)
+                    {
+                    <span>@item?.User.Name</span> 
+                    }
+                }
+
+                                                                  </div>
+                                                                  </div>
+        <p><span style="font-weight:bold">Department : </span> @Model.Department.DeptName</p>
+    </div>
+</div>
+
+<a class="btn btn-info" asp-action="Index" asp-controller="Subjects">Back</a>

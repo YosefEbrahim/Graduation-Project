@@ -1,0 +1,25 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Delete";
+}
+<form method="post" asp-action="Delete">
+    <h1>
+        Are you sure to delete this Doctor
+    </h1>
+    <div class="card cardCustom alert alert-danger" style="width:auto;">
+                <div class="card-body">
+            <h4 class="text-light"><span style="font-weight:bold">Name : </span>  @Model.User.Name </h4>
+            <p class="card-text text-light"><span style="font-weight:bold">Email : </span>  @Model.User.Email</p>
+            <p class="text-light"><span style="font-weight:bold">Phone Number : </span> @Model.User.PhoneNumber</p>
+            <p class="card-text text-light"><span style="font-weight:bold">Faculty : </span> @Model.Faculty </p>
+            <p class="card-text text-light"><span style="font-weight:bold">Class : </span>  @Model.Class</p>
+            <p class="text-light"><span style="font-weight:bold">Major : </span> @Model.Major</p>
+            <p class="text-light"><span style="font-weight:bold">University Id : </span> @Model.UniversityId</p>
+                </div>
+            </div>
+    <br />
+    <a class="btn btn-success" asp-action="Index" asp-controller="Students">No</a> |
+        <button class="btn btn-primary" type="submit">Yes</button>
+</form>
+
+

@@ -1,0 +1,24 @@
+﻿@model Doctor
+@{
+    ViewData["Title"] = "Delete";
+}
+<form method="post" asp-action="Delete">
+    <h1>
+        Are you sure to delete this Doctor
+    </h1>
+    <div class="card cardCustom alert alert-danger" style="width:auto;">
+                <div class="card-body">
+            <h4 class="text-light"><span style="font-weight:bold">Name : </span>  @Model.User.Name</h4>
+            <p class="card-text text-light"><span style="font-weight:bold">Specialice : </span>  @Model.Specialice</p>
+            <p class="card-text text-light"><span style="font-weight:bold">Phone Number : </span>  @Model.User.PhoneNumber</p>
+            <p class="card-text text-light"><span style="font-weight:bold">Email : </span>  @Model.User.Email</p>
+                <p class="text-light"><span style="font-weight:bold">Created Date : </span> @Model.CreateTime</p>
+            <p class="text-light"><span style="font-weight:bold">Admin Name : </span> @Model.User.Admin.Name</p>
+                </div>
+            </div>
+    <br />
+    <a class="btn btn-success" asp-action="Index" asp-controller="Doctors">No</a> |
+        <button class="btn btn-primary" type="submit">Yes</button>
+</form>
+
+

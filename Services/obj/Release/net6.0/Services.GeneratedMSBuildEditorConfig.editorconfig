@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Services
+build_property.RootNamespace = Services
+build_property.ProjectDir = D:\ملفات\source\repos\Graduation Project\Services\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ملفات\source\repos\Graduation Project\Services
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Account/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcQWNjb3VudFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Account/ResetRespond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcQWNjb3VudFxSZXNldFJlc3BvbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Lecture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcTGVjdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Lecture/QrGeneration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcTGVjdHVyZVxRckdlbmVyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Lecture/RandomQr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcTGVjdHVyZVxSYW5kb21Rci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0rjctzx3y2
+
+[D:/ملفات/source/repos/Graduation Project/Services/Areas/External/Views/Shared/_ResetLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXh0ZXJuYWxcVmlld3NcU2hhcmVkXF9SZXNldExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-cgorydellt

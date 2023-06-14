@@ -1,0 +1,29 @@
+﻿@model News
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+
+<form asp-action="Edit" asp-controller="News" asp-area="Admin" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title" class="control-label"></label>
+        <input asp-for="Title" class="form-control" type="text" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Body" class="control-label"></label>
+        <input asp-for="Body" class="form-control" type="text" />
+        <span asp-validation-for="Body" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image" class="control-label">
+            <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="250" width="250" />
+        </label>
+        <input asp-for="Image" class="form-control" type="file" required/>
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+
+    <a class="btn btn-info" asp-action="Index" asp-controller="News">Back</a>
+    <button type="submit" class="btn btn-success">Edit</button>
+</form>

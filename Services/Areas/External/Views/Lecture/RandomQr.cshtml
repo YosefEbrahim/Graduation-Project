@@ -1,0 +1,42 @@
+﻿@model Services.Areas.External.ViewModels.QrRandamViewModel
+
+@{
+    ViewData["Title"] = "Random Qr";
+    Layout = "~/Areas/External/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Random Qr</h1>
+
+<div style="display: flex;justify-content: center;">
+<img src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(@Model.QrImage))" height="500" width="500" id="qr_img"/>
+</div>
+
+<div>
+    <a asp-action="InactiveQr" asp-route-QrId="@Model.Qr_Id">Back</a>
+</div>
+@section Scripts{
+<script>
+    debugger;
+  setInterval(randamQr, @Model.Duration*1000*60);
+    function randamQr()
+    {
+         $.ajax(
+            {
+                type: "POST",
+                url: "/External/Lecture/GenerateRandomQr",
+                dataType: "json",
+                data: { "LecId": "@Model.LecId" },        
+                success: function (result) {
+                    if (result.key == 1) {
+                            debugger;
+                            var $el = $("#qr_img");
+                            $el.attr("src","data:image/png;base64,".concat(result.qr_image))
+
+                    }
+
+                }
+            });
+    }
+
+</script>
+}

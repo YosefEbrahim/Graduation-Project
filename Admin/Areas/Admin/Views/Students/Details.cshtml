@@ -1,0 +1,23 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="card cardCustom alert alert-primary" style="width: auto;">
+@*    <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="250" width="250" />
+*@    <div class="card-body">
+    @if(Model.Image != null)
+        {
+        <img class="card-img-top" alt="Card image cap" src="@String.Concat("data:image/png;base64,", Convert.ToBase64String(Model.Image))" height="auto" width="250" />            
+        }
+        <h4 class="text-light"><span style="font-weight:bold">Name : </span>  @Model.User.Name </h4>
+        <p class="card-text text-light"><span style="font-weight:bold">Email : </span>  @Model.User.Email</p>
+        <p class="text-light"><span style="font-weight:bold">Phone Number : </span> @Model.User.PhoneNumber</p>
+        <p class="card-text text-light"><span style="font-weight:bold">Faculty : </span> @Model.Faculty </p>
+        <p class="card-text text-light"><span style="font-weight:bold">Class : </span>  @Model.Class</p>
+        <p class="text-light"><span style="font-weight:bold">Major : </span> @Model.Major</p>
+        <p class="text-light"><span style="font-weight:bold">Department : </span> @Model.Department.DeptName</p>
+        <p class="text-light"><span style="font-weight:bold">University Id : </span> @Model.UniversityId</p>
+    </div>
+</div>
+
+<a class="btn btn-info" asp-action="Index" asp-controller="Students">Back</a>

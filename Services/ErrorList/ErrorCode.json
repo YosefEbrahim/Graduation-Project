@@ -1,0 +1,16 @@
+{
+  "errors": [
+    {
+      "ErrorCode": 1,
+      "Description": "Email Already Exists"
+    },
+    {
+      "ErrorCode": 2,
+      "Description": "Email Doesn't Exist"
+    },
+    {
+      "ErrorCode": 3,
+      "Description": "Email and Passward doesn't match"
+    }
+  ]
+}
